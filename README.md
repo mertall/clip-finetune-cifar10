@@ -33,7 +33,7 @@ The notebook is organized into eight main sections. Here’s what you can expect
 
 7. **HNSW Index Construction & Querying**  
    - **Index Creation**: Build an HNSWLib index with combined embeddings.  
-   - **Text → Image**: Demonstrate k‑NN search in both directions.  
+   - **Text → Image**: Demonstrate ANN search with multimodal RAG.  
    - **Retrieval Evaluation**: Display top‑k retrieved images for sample prompts.
 
 8. **Advanced Evaluation & Visualization**  
