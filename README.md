@@ -56,4 +56,4 @@ The notebook is organized into eight main sections. Here’s what you can expect
 
 - Swap CIFAR‑10 for a custom dataset by modifying the `CIFAR10Contrastive` class.  
 - Experiment with different CLIP variants or backbone architectures.  
-- Embeddings text and image in the same index allowing reverse search, first attempt failed- thinking its because non descriptive text was being used.
+- Embed text and image in the same index allowing reverse search, first attempt failed- thinking its because non descriptive text was being used.
