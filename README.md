@@ -46,7 +46,7 @@ The notebook is organized into eight main sections. Here’s what you can expect
 
 ## 📊 Results & Insights
 
-- Expect a significant lift in zero‑shot accuracy after fine‑tuning (e.g., >9% vs. base CLIP).  
+- Expect a significant lift in zero‑shot accuracy after fine‑tuning (e.g., >6% vs. base CLIP).  
 - Demonstrations of fast and accurate retrieval.  
 - UMAP visualizations reveal clean class clusters in embedding space.
 
